@@ -2,6 +2,8 @@
 
 This project implements backend APIs for a platform where doctors can register patients through a mobile or web portal. The core functionalities include adding doctors with their specialties, adding patients with their symptoms, and suggesting suitable doctors based on patient symptoms. The system aims to facilitate efficient management of doctor-patient data and enhance the user experience by quickly connecting patients with relevant medical professionals. 
 
+**[Demo Video](https://www.linkedin.com/posts/shubhamo0o_java-springboot-codinglife-activity-7201258904696074240-p5km?utm_source=combined_share_message&utm_medium=member_desktop)**
+
 ## Task Details
 
 ### Doctor's Entity
